@@ -15,7 +15,9 @@ I am interested in designing optimization algorithms that account for the geomet
 ## News
 
 <ul class="news-list">
-  <li><span>2026</span><p>Three acceptances at NeurIPS 2026: LOSCAR-SGD at the main track and CODEC-FM Workshop, and VENUS at the OPT-ML Workshop.</p></li>
+  <li><span>2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 main track.</p></li>
+  <li><span>2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 CODEC-FM Workshop.</p></li>
+  <li><span>2026</span><p>VENUS was accepted to the NeurIPS 2026 OPT-ML Workshop.</p></li>
   <li><span>2026</span><p>Attended the KAUST Rising Stars in AI Symposium.</p></li>
   <li><span>Nov 2025</span><p>Helped organize and attended the KAUST Workshop on Distributed Training in the Era of Large Models.</p></li>
   <li><span>Jun 2025</span><p>Started my Ph.D. in Computer Science at KAUST's OptML Lab.</p></li>
@@ -35,18 +37,18 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
     <a href="https://arxiv.org/abs/2605.20866">arXiv</a>
   </li>
   <li>
-    <span class="publication-venue">OPT-ML 2026 · Under Review at ICLR</span>
+    <span class="publication-venue">OPT-ML 2026 · Under Review</span>
     <strong>VENUS: Decoupling the Samples in MARS</strong>
     <span><em>Author list withheld during peer review</em></span>
   </li>
   <li>
-    <span class="publication-venue">Under Review at ICLR</span>
+    <span class="publication-venue">Under Review</span>
     <strong>Drop-Muon: Update Less, Converge Faster</strong>
     <span>K. Gruntkowska, <em>Yassine Maziane</em>, Z. Qu, and P. Richtárik</span>
     <a href="https://arxiv.org/abs/2510.02239">arXiv</a>
   </li>
   <li>
-    <span class="publication-venue">Under Review at AISTATS</span>
+    <span class="publication-venue">Under Review</span>
     <strong>Compressed Federated Second-Order Methods for Nonconvex Optimization</strong>
     <span><em>Author list withheld during peer review</em></span>
   </li>
@@ -77,7 +79,7 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 <div class="plain-entry">
   <strong>University of Liège</strong>
   <em>M.Sc. in Machine Learning and Data Science, 2021–2023 · Magna Cum Laude</em>
-  <p>Thesis: <cite>Diffusion Models: Seek of Information and Structure in Latent Space</cite>.</p>
+  <p>Applied-mathematics training in optimization and high-dimensional statistics. Thesis: <cite>Diffusion Models: Seek of Information and Structure in Latent Space</cite>.</p>
 </div>
 
 <div class="plain-entry">
