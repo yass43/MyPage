@@ -8,19 +8,6 @@ author_profile: true
 
 <p class="page-intro">My background spans optimization research, production machine-learning systems, data engineering, and teaching.</p>
 
-## Academic appointments
-
-<div class="timeline">
-  <article class="timeline-item">
-    <div class="timeline-item__date">Jun 2025 — Present</div>
-    <div class="timeline-item__body">
-      <h3>Ph.D. Student in Computer Science</h3>
-      <p class="timeline-item__place">King Abdullah University of Science and Technology (KAUST)</p>
-      <p>Research in optimization for machine learning under the supervision of Prof. Peter Richtárik, with an emphasis on stochastic, distributed, federated, and communication-efficient methods.</p>
-    </div>
-  </article>
-</div>
-
 ## Industry and engineering
 
 <div class="timeline">
@@ -57,7 +44,8 @@ author_profile: true
     <div class="timeline-item__date">2025 — Present</div>
     <div class="timeline-item__body">
       <h3>Ph.D. in Computer Science</h3>
-      <p class="timeline-item__place">KAUST</p>
+      <p class="timeline-item__place">KAUST · OptML Lab</p>
+      <p>Advised by Prof. Peter Richtárik. Research in stochastic, distributed, federated, and communication-efficient optimization for machine learning.</p>
     </div>
   </article>
   <article class="timeline-item">

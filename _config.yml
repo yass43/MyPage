@@ -27,8 +27,8 @@ author:
   name             : "Yassine Maziane"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. researcher in optimization for machine learning"
-  location         : "Thuwal, Saudi Arabia"
-  employer         : "KAUST"
+  location         :
+  employer         : "KAUST · OptML Lab"
   uri              : # URL
   email            : "YassineMaziane7@gmail.com"
 
