@@ -33,6 +33,7 @@ body {
 }
 
 .greedy-nav a {
+  font-size: 0.9rem;
   letter-spacing: 0.01em;
 }
 
@@ -43,7 +44,7 @@ body {
 
 .page__title {
   color: var(--ym-ink);
-  font-size: clamp(2rem, 4vw, 3.25rem);
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
   letter-spacing: -0.045em;
 }
 
@@ -126,29 +127,29 @@ body {
 
 .home-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.75fr) minmax(220px, 0.75fr);
-  gap: clamp(2rem, 7vw, 6rem);
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: clamp(2rem, 5vw, 4rem);
   align-items: center;
-  min-height: 31rem;
-  padding: clamp(3rem, 8vw, 6.5rem) 0;
+  min-height: 20rem;
+  padding: clamp(2.5rem, 5vw, 4.5rem) 0;
 }
 
 .home-hero h1 {
-  max-width: 760px;
-  margin: 0 0 1.5rem;
+  max-width: 650px;
+  margin: 0 0 1.2rem;
   color: var(--ym-ink);
   font-family: $sans-serif;
-  font-size: clamp(3rem, 7vw, 5.9rem);
-  font-weight: 760;
-  line-height: 0.98;
-  letter-spacing: -0.065em;
+  font-size: clamp(2.3rem, 4vw, 3.75rem);
+  font-weight: 740;
+  line-height: 1.05;
+  letter-spacing: -0.05em;
 }
 
 .home-hero__lead {
-  max-width: 47rem;
+  max-width: 42rem;
   color: var(--global-text-color-light);
-  font-size: clamp(1.05rem, 2vw, 1.24rem) !important;
-  line-height: 1.7;
+  font-size: 1rem !important;
+  line-height: 1.65;
 }
 
 .hero-actions {
@@ -164,6 +165,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  width: clamp(145px, 17vw, 200px);
   aspect-ratio: 1;
   color: var(--ym-accent-strong);
   background: var(--ym-accent-soft);
@@ -189,7 +191,7 @@ body {
 }
 
 .home-hero__mark span {
-  font-size: clamp(3rem, 6vw, 5rem);
+  font-size: clamp(2.4rem, 4vw, 3.5rem);
   font-weight: 800;
   letter-spacing: -0.08em;
   line-height: 1;
@@ -205,7 +207,7 @@ body {
 }
 
 .home-section {
-  padding: clamp(3.5rem, 7vw, 6rem) 0;
+  padding: clamp(2.75rem, 5vw, 4.25rem) 0;
   border-top: 1px solid var(--global-border-color);
 }
 
@@ -219,7 +221,7 @@ body {
   margin: 0 0 1rem;
   padding: 0;
   color: var(--ym-ink);
-  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-size: clamp(1.75rem, 3vw, 2.45rem);
   line-height: 1.08;
   letter-spacing: -0.045em;
   border: 0;
@@ -241,7 +243,7 @@ body {
 }
 
 .focus-card {
-  min-height: 14rem;
+  min-height: 11rem;
   padding: 1.45rem;
   transition: border-color 160ms ease, transform 160ms ease;
 }
@@ -258,8 +260,8 @@ body {
 }
 
 .focus-card h3 {
-  margin-top: 2.8rem;
-  font-size: 1.2rem;
+  margin-top: 1.9rem;
+  font-size: 1.08rem;
 }
 
 .focus-card p,

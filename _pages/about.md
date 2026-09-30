@@ -13,7 +13,7 @@ redirect_from:
 <section class="home-hero">
   <div class="home-hero__copy">
     <p class="eyebrow">Ph.D. Researcher · OptML Lab at KAUST</p>
-    <h1>Making large-scale learning more efficient.</h1>
+    <h1>Optimization for efficient machine learning.</h1>
     <p class="home-hero__lead">I develop optimization methods for modern machine learning, with an emphasis on stochastic, distributed, federated, and communication-efficient training. I am advised by <strong>Prof. Peter Richtárik</strong>.</p>
     <div class="hero-actions">
       <a class="button button--primary" href="#research">Research overview</a>
