@@ -96,6 +96,30 @@ body {
   font-size: 1.05rem !important;
 }
 
+.news-list {
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.news-list li {
+  display: grid;
+  grid-template-columns: 5.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.news-list span {
+  color: var(--global-link-color);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.news-list p {
+  margin: 0;
+}
+
 .simple-publications {
   margin: 1.5rem 0 0;
   padding-left: 1.4rem;
@@ -184,6 +208,11 @@ body {
 
   .page__title {
     font-size: 2rem;
+  }
+
+  .news-list li {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
   }
 }
 
