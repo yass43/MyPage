@@ -1,36 +1,68 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
+excerpt: "Publications and manuscripts by Yassine Maziane."
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<p class="page-intro">My work focuses on optimization algorithms for efficient machine learning. Publication status below reflects the latest information available.</p>
 
-{% include base_path %}
+<div class="publication-list">
+  <article class="publication-card">
+    <div class="publication-card__top">
+      <span class="pub-year">2026</span>
+      <div class="status-row">
+        <span class="status status--accepted">NeurIPS 2026 · Main Track</span>
+        <span class="status status--accepted">NeurIPS 2026 · CODEC-FM</span>
+      </div>
+    </div>
+    <h2>LOSCAR-SGD: Local SGD with Communication–Computation Overlap and Delay-Corrected Sparse Model Averaging</h2>
+    <p class="pub-authors"><strong>Y. Maziane</strong>, A. Mahran, A. Maranjyan, and P. Richtárik</p>
+    <p>LOSCAR-SGD combines local training, sparse model synchronization, and communication–computation overlap, with a correction that preserves local progress when delayed synchronized information arrives.</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2605.20866">arXiv <span aria-hidden="true">↗</span></a>
+      <a href="https://doi.org/10.48550/arXiv.2605.20866">DOI <span aria-hidden="true">↗</span></a>
+    </div>
+  </article>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <article class="publication-card">
+    <div class="publication-card__top">
+      <span class="pub-year">2026</span>
+      <div class="status-row">
+        <span class="status status--accepted">NeurIPS 2026 · OPT-ML</span>
+        <span class="status status--review">Under Review · ICLR</span>
+      </div>
+    </div>
+    <h2>VENUS: Decoupling the Samples in MARS</h2>
+    <p class="pub-authors"><em>Author list withheld during peer review.</em></p>
+    <p>VENUS evaluates momentum-SGD and momentum-variance-reduction branches on independent minibatches, enlarging the estimator family beyond coupled MARS while retaining convergence guarantees in linear-minimization-oracle geometry.</p>
+  </article>
 
+  <article class="publication-card">
+    <div class="publication-card__top">
+      <span class="pub-year">2025</span>
+      <div class="status-row"><span class="status status--review">Under Review · ICLR</span></div>
+    </div>
+    <h2>Drop-Muon: Update Less, Converge Faster</h2>
+    <p class="pub-authors">K. Gruntkowska, <strong>Y. Maziane</strong>, Z. Qu, and P. Richtárik</p>
+    <p>Drop-Muon uses randomized progressive training to update subsets of layers with layer-specific non-Euclidean steps, pairing convergence guarantees with practical reductions in training time.</p>
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2510.02239">arXiv <span aria-hidden="true">↗</span></a>
+      <a href="https://doi.org/10.48550/arXiv.2510.02239">DOI <span aria-hidden="true">↗</span></a>
+    </div>
+  </article>
 
+  <article class="publication-card">
+    <div class="publication-card__top">
+      <span class="pub-year">2026</span>
+      <div class="status-row"><span class="status status--review">Under Review · AISTATS</span></div>
+    </div>
+    <h2>Compressed Federated Second-Order Methods for Nonconvex Optimization</h2>
+    <p class="pub-authors">A. Sadiev, <strong>Y. Maziane</strong>, S. Khirirat, and P. Richtárik</p>
+    <p>Compressed federated trust-region methods that support biased matrix compression and target both first- and second-order stationarity in smooth nonconvex optimization.</p>
+  </article>
+</div>
+
+<p class="content-note">For questions about a manuscript or requests for supporting material, please <a href="mailto:YassineMaziane7@gmail.com">contact me</a>.</p>
 
