@@ -1,7 +1,6 @@
 {% include base_path %}
 <header class="masthead">
   <div class="masthead__inner-wrap">
-    <a class="site-name" href="{{ base_path }}/">{{ site.title }}</a>
     <nav class="simple-nav" aria-label="Main navigation">
       {% for link in site.data.navigation.main %}
         {% if link.url contains 'http' %}
@@ -9,7 +8,11 @@
         {% else %}
           {% assign domain = base_path %}
         {% endif %}
-        <a href="{{ domain }}{{ link.url }}"{% if page.url == link.url or page.url contains link.url and link.url != '/' %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% if link.placeholder %}
+          <a href="#" class="placeholder-link" aria-disabled="true" title="Link coming soon" onclick="return false;">{{ link.title }}</a>
+        {% else %}
+          <a href="{{ domain }}{{ link.url }}"{% if page.url == link.url or page.url contains link.url and link.url != '/' %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% endif %}
       {% endfor %}
     </nav>
   </div>

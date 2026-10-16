@@ -12,13 +12,15 @@ redirect_from:
 
 I am interested in designing optimization algorithms that account for the geometry of modern learning models and the computational and communication constraints of training at scale.
 
+<p class="profile-links"><a href="mailto:YassineMaziane7@gmail.com">Email</a> · <a href="#" class="placeholder-link" aria-disabled="true" title="Link coming soon" onclick="return false;">Google Scholar</a> · <a href="https://github.com/yass43">GitHub</a></p>
+
 ## News
 
 <ul class="news-list">
-  <li><span>2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 main track.</p></li>
-  <li><span>2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 CODEC-FM Workshop.</p></li>
-  <li><span>2026</span><p>VENUS was accepted to the NeurIPS 2026 OPT-ML Workshop.</p></li>
-  <li><span>2026</span><p>Attended the KAUST Rising Stars in AI Symposium.</p></li>
+  <li><span>Sep 2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 main track.</p></li>
+  <li><span>Sep 2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 CODEC-FM Workshop.</p></li>
+  <li><span>Sep 2026</span><p>VENUS was accepted to the NeurIPS 2026 OPT-ML Workshop.</p></li>
+  <li><span>Sep 2026</span><p>Attended the KAUST Rising Stars in AI Symposium.</p></li>
   <li><span>Nov 2025</span><p>Helped organize and attended the KAUST Workshop on Distributed Training in the Era of Large Models.</p></li>
   <li><span>Jun 2025</span><p>Started my Ph.D. in Computer Science at KAUST's OptML Lab.</p></li>
 </ul>
