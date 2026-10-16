@@ -5,21 +5,21 @@
 html[data-theme="dark"] {
   color-scheme: light;
   --global-base-color: #1f5a45;
-  --global-bg-color: #fbfaf6;
-  --global-footer-bg-color: #fbfaf6;
-  --global-border-color: #d9ded8;
-  --global-dark-border-color: #c6cec7;
-  --global-code-background-color: #f1f3ef;
-  --global-code-text-color: #25352f;
-  --global-fig-caption-color: #68746e;
+  --global-bg-color: #e8e1d5;
+  --global-footer-bg-color: #e8e1d5;
+  --global-border-color: #cbc1b2;
+  --global-dark-border-color: #b9ae9f;
+  --global-code-background-color: #ddd5c8;
+  --global-code-text-color: #263830;
+  --global-fig-caption-color: #64716a;
   --global-link-color: #1f5a45;
-  --global-link-color-hover: #b85f24;
+  --global-link-color-hover: #b8612d;
   --global-link-color-visited: #1f5a45;
-  --global-masthead-link-color: #25352f;
+  --global-masthead-link-color: #263830;
   --global-masthead-link-color-hover: #1f5a45;
-  --global-text-color: #25352f;
-  --global-text-color-light: #68746e;
-  --global-thead-color: #eef1ed;
+  --global-text-color: #263830;
+  --global-text-color-light: #64716a;
+  --global-thead-color: #ddd5c8;
 }
 
 html { font-size: 16px; }
@@ -68,7 +68,7 @@ body {
 
 .simple-nav a[aria-current="page"] {
   text-decoration: underline;
-  text-decoration-color: #d27735;
+  text-decoration-color: #b8612d;
   text-decoration-thickness: 2px;
   text-underline-offset: 0.3rem;
 }
@@ -163,7 +163,7 @@ body {
 
 .news-list span {
   padding-top: 0.1rem;
-  color: #b85f24;
+  color: #b8612d;
   font-size: 0.78rem;
   font-weight: 700;
 }
@@ -191,7 +191,7 @@ body {
 }
 
 .simple-publications .publication-venue {
-  color: #b85f24;
+  color: #b8612d;
   font-size: 0.73rem;
   font-weight: 700;
   letter-spacing: 0.045em;
