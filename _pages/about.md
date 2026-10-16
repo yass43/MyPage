@@ -31,13 +31,13 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 
 <ol class="simple-publications">
   <li>
-    <span class="publication-venue">NeurIPS 2026 · CODEC-FM 2026</span>
+    <span class="publication-venue">NeurIPS 2026 Main Track · NeurIPS CODEC-FM Workshop</span>
     <strong>LOSCAR-SGD: Local SGD with Communication–Computation Overlap and Delay-Corrected Sparse Model Averaging</strong>
     <span><em>Yassine Maziane</em>, A. Mahran, A. Maranjyan, and P. Richtárik</span>
     <a href="https://arxiv.org/abs/2605.20866">arXiv</a>
   </li>
   <li>
-    <span class="publication-venue">OPT-ML 2026 · Under Review</span>
+    <span class="publication-venue">NeurIPS 2026 OPT-ML Workshop · Under Review</span>
     <strong>VENUS: Decoupling the Samples in MARS</strong>
     <span><em>Author list withheld during peer review</em></span>
   </li>
@@ -91,10 +91,10 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 ## Academic Service
 
 - Reviewer for the *Journal of Machine Learning Research (JMLR)*
-- Reviewer for the NeurIPS CODEC Workshop
+- Reviewer for the NeurIPS CODEC-FM Workshop
 - Organizer of the 2025 KAUST Workshop on Distributed Training in the Era of Large Models
 
 ## Contact
 
-[YassineMaziane7@gmail.com](mailto:YassineMaziane7@gmail.com) · [MLExplora](https://mlexplora.github.io/MLExplora/)
+[YassineMaziane7@gmail.com](mailto:YassineMaziane7@gmail.com)
 
