@@ -61,13 +61,22 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 <div class="plain-entry">
   <strong>Qualcomm</strong>
   <em>Machine Learning Engineer, January 2024–June 2025</em>
-  <p>Worked on model inference optimization, post-training quantization, model reduction, and integration with proprietary processors.</p>
+  <ul>
+    <li>Developed and maintained large-scale ML inference validation pipelines across diverse neural network architectures and hardware platforms. Worked across the full inference stack, from model compilation and hardware execution to performance profiling and regression analysis, identifying accuracy regressions, execution failures, and performance bottlenecks at both model and processor levels.</li>
+    <li>Worked on ML inference acceleration, model integration, and hardware verification, including randomized instruction testing, processor-level debugging, and fault diagnosis.</li>
+  </ul>
 </div>
 
 <div class="plain-entry">
   <strong>University of Liège</strong>
-  <em>Data Engineer and Student Instructor, 2022–2023</em>
-  <p>Built marine-data ETL pipelines and mentored engineering students in optimization and numerical methods.</p>
+  <em>Software Engineer, 2022–2023</em>
+  <p>Built software pipelines for processing marine data.</p>
+</div>
+
+<div class="plain-entry">
+  <strong>University of Liège</strong>
+  <em>Student Instructor, 2022–2023</em>
+  <p>Helped teach optimization and numerical methods to engineering students.</p>
 </div>
 
 ## Education
