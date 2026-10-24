@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p class="intro">I am a Ph.D. student in Computer Science at KAUST, working in the OptML Lab with Prof. Peter Richtárik. My research is broadly in optimization for machine learning, particularly large-scale, distributed, and federated learning.</p>
+<p class="intro">I am a Ph.D. student in Computer Science at KAUST, working in the OptML Lab with <a href="https://richtarik.org/">Prof. Peter Richtárik</a>. My research is broadly in optimization for machine learning, particularly large-scale, distributed, and federated learning.</p>
 
 I am interested in designing optimization algorithms that account for the geometry of modern learning models and the computational and communication constraints of training at scale.
 
@@ -18,8 +18,8 @@ I am interested in designing optimization algorithms that account for the geomet
 
 <ul class="news-list">
   <li><span>Sep 2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 main track.</p></li>
-  <li><span>Sep 2026</span><p>LOSCAR-SGD was accepted to the NeurIPS 2026 CODEC-FM Workshop.</p></li>
-  <li><span>Sep 2026</span><p>VENUS was accepted to the NeurIPS 2026 OPT-ML Workshop.</p></li>
+  <li><span>Sep 2026</span><p>LOSCAR-SGD was accepted to the <a href="https://collaborative-open-decentralized-fomo.github.io/">NeurIPS 2026 CODEC-FM Workshop</a>.</p></li>
+  <li><span>Sep 2026</span><p>VENUS was accepted to the <a href="https://opt-ml.org/">NeurIPS 2026 OPT-ML Workshop</a>.</p></li>
   <li><span>Sep 2026</span><p>Attended the KAUST Rising Stars in AI Symposium.</p></li>
   <li><span>Nov 2025</span><p>Helped organize and attended the KAUST Workshop on Distributed Training in the Era of Large Models.</p></li>
   <li><span>Jun 2025</span><p>Started my Ph.D. in Computer Science at KAUST's OptML Lab.</p></li>
@@ -33,20 +33,20 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 
 <ol class="simple-publications">
   <li>
-    <span class="publication-venue">NeurIPS 2026 Main Track · NeurIPS CODEC-FM Workshop</span>
+    <span class="publication-venue">NeurIPS 2026 Main Track · <a href="https://collaborative-open-decentralized-fomo.github.io/">NeurIPS CODEC-FM Workshop</a></span>
     <strong>LOSCAR-SGD: Local SGD with Communication–Computation Overlap and Delay-Corrected Sparse Model Averaging</strong>
-    <span><em>Yassine Maziane</em>, A. Mahran, A. Maranjyan, and P. Richtárik</span>
+    <span><em>Yassine Maziane</em>, A. Mahran, A. Maranjyan, and <a href="https://richtarik.org/">P. Richtárik</a></span>
     <a href="https://arxiv.org/abs/2605.20866">arXiv</a>
   </li>
   <li>
-    <span class="publication-venue">NeurIPS 2026 OPT-ML Workshop · Under Review</span>
+    <span class="publication-venue"><a href="https://opt-ml.org/">NeurIPS 2026 OPT-ML Workshop</a> · Under Review</span>
     <strong>VENUS: Decoupling the Samples in MARS</strong>
     <span><em>Author list withheld during peer review</em></span>
   </li>
   <li>
     <span class="publication-venue">Under Review</span>
     <strong>Drop-Muon: Update Less, Converge Faster</strong>
-    <span>K. Gruntkowska, <em>Yassine Maziane</em>, Z. Qu, and P. Richtárik</span>
+    <span>K. Gruntkowska, <em>Yassine Maziane</em>, Z. Qu, and <a href="https://richtarik.org/">P. Richtárik</a></span>
     <a href="https://arxiv.org/abs/2510.02239">arXiv</a>
   </li>
   <li>
@@ -84,7 +84,7 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 <div class="plain-entry">
   <strong>King Abdullah University of Science and Technology (KAUST)</strong>
   <em>Ph.D. in Computer Science, 2025–Present</em>
-  <p>OptML Lab. Supervised by Prof. Peter Richtárik.</p>
+  <p>OptML Lab. Supervised by <a href="https://richtarik.org/">Prof. Peter Richtárik</a>.</p>
 </div>
 
 <div class="plain-entry">
@@ -102,7 +102,7 @@ Optimization for Machine Learning · Large-Scale and Distributed Learning · Fed
 ## Academic Service
 
 - Reviewer for the *Journal of Machine Learning Research (JMLR)*
-- Reviewer for the NeurIPS CODEC-FM Workshop
+- Reviewer for the [NeurIPS CODEC-FM Workshop](https://collaborative-open-decentralized-fomo.github.io/)
 - Organizer of the 2025 KAUST Workshop on Distributed Training in the Era of Large Models
 
 ## Contact
